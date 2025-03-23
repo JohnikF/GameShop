@@ -1,7 +1,32 @@
 body {
     background-color: rgb(161, 241, 136);
+    text-align: center;
 }
 
-div {
+.card {
     background-color: white;
+    width: 350px;
+    display: inline-block;
+    height: 550px;
+    font-size: 20px;
+    border: 1px solid black;
+    border-radius: 15px;
+}
+
+img {
+    width: 350px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}   
+
+h1 {
+    text-align: center;
+}
+
+.button {
+    background-color: rgb(113, 197, 96);
+    text-decoration: none;
+    color: #524f4e;
+    border-radius: 45px;
+    padding: 2px 25px;
 }
