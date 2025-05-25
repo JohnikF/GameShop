@@ -127,5 +127,19 @@ th {
 }
 
 .price-button {
-    
+    padding: 20px 5px;
+    width: 250px;
+    display: inline-block;
+    border-radius: 45px;
+    color: white;
+    font-size: 18px;
+    border: 1px solid black;
+    text-decoration: none;
+    text-shadow: 1px 1px 2px black;
+    box-shadow: 1px 3px 4px gray;
+}
+
+.gray-bg {
+    background-color: rgb(230, 230, 230);
+
 }
